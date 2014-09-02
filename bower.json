@@ -1,0 +1,23 @@
+{
+  "name": "jquery.hammer.js",
+  "main": "jquery.hammer.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hammerjs/jquery.hammer.js",
+  "authors": [
+    "J. Tangelder"
+  ],
+  "description": "jQuery plugin for Hammer.js",
+  "keywords": [
+    "jQuery",
+    "plugins",
+    "hammerjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
